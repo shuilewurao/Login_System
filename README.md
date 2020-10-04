@@ -1,2 +1,2 @@
-# Login System
-- simple login system in Python
+# Login System in Python
+- simple login system logic
